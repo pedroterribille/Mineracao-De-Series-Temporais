@@ -1,0 +1,6 @@
+﻿com.samsung.health.device_profile,7006011,9
+manufacturer,providing_step_goal,create_sh_ver,step_source_group,device_type,backsync_step_goal,capability,modify_sh_ver,device_group,update_time,create_time,name,model,legacy_deviceuuid,connectivity_type,deviceuuid,pkg_name,accessory_type,fixed_name,datauuid
+Samsung,,,,,,,,360001,2022-11-27 17:21:53.458,2022-11-27 17:21:53.458,My Device,SM-G781B,,,487mnSNu6t,com.sec.android.app.shealth,,Galaxy S20 FE 5G,f8f75d6f-4570-461b-be29-07625428da7c,
+Combined,,,,,,,,0,2023-10-20 19:21:22.737,2023-10-20 19:21:22.737,Combined,Combined,,,VfS0qUERdZ,com.sec.android.app.shealth,,Galaxy S20 FE 5G,7af9722c-cd99-07b7-853a-43ce58e819c5,
+Samsung Electronics,1,,102,10054,1,26ce0af8-fbd6-404a-a84e-cf0f8b2722e8.capability.json,70060110,360003,2026-09-09 20:52:33.495,2023-10-20 17:10:01.900,Galaxy Watch4,SM-R860,,,hriiVjEkYE,com.sec.android.app.shealth,,Galaxy S20 FE 5G,26ce0af8-fbd6-404a-a84e-cf0f8b2722e8,
+all_target,,,,,,,,0,2023-10-20 19:21:26.055,2023-10-20 19:21:26.055,all_target,all_target,,,Mk66SbFqK1,com.sec.android.app.shealth,,Galaxy S20 FE 5G,471ca32b-a665-1e9e-7c27-7ac69485dc05,
